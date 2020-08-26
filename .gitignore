@@ -12,3 +12,7 @@
 /capturesgradlew
 .externalNativeBuild
 .cxx
+.idea
+build
+gradle
+
